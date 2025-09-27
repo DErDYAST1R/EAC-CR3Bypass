@@ -3,4 +3,4 @@ My EAC &amp; BE Rady CR3 Reading &amp; Writing source that I use for my KM Drive
 
 💕 This is originally from my P2C But I am releasing it because I have moved onto new methods/exploits.
 # Contact
-If you want to contact me in regards of my work or projects my discord is on my main github page / readme.md [i32-Sudo](https://github.com/i32-Sudo), Please do not message me for Issues or Learning/Studying I am not a teacher.
+Discord Username; bloodieys
